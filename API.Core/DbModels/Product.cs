@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace APIData.DbModels
+namespace API.Core.DbModels
 {
     public class Product
     {

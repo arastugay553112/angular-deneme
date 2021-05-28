@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using APIData.DataContext;
-using APIData.DbModels;
+using API.Core.DbModels;
+using APIinsfranstructure.DataContext;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
